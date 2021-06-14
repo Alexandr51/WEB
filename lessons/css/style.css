@@ -2,12 +2,38 @@ body {
     color: #1a5be0;
     font-family: Arial, sans-serif;
     font-size: 30px;
-
+    background-color: bisque;
 
 }
+
 .title {
     text-align: center;
     color: crimson;
+}
+
+
+.table {
+    border: 2px solid #822bc6;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+
+}
+
+.table th {
+    padding: 5px 10px 15px 20px;
+    color: chartreuse;
+    border: 2px solid #822bc6;
+}
+
+.table td {
+    border: 2px solid #822bc6;
+
+
+}
+
+.table tfoot td {
+    text-align: right;
 }
 
 
