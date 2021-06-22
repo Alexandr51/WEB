@@ -1,0 +1,36 @@
+html {
+    font-size: 15px;
+
+}
+
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    line-height: 1.6rem;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 0;
+}
+
+p {
+    margin: 0 0 10px;
+
+}
+
+/*Page*/
+
+
+.page  {
+    width: 100%;
+    height: 100vh;
+    background: #000 url("../img/bg.jpg")
+    center no-repeat;
+    background-size: cover;
+    
+}
