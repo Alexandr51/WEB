@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+
+    background-color: #ffffff;
+
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #585858;
+
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+
+
+}
+
+
+/*Container_________________________________________________________*/
+
+
+.container {
+    width: 100%;
+    max-width: 1230px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+
+}
+
+/*Header_____________________________________________________________*/
+
+
+.header {
+    height: 85px;
+
+    background-color: rgba(0, 0, 0, 0.2);
+
+
+}
+
+
+
