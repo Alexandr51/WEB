@@ -3,16 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2d9757b2-1955-44a1-8510-6b0c5123bc81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CenterLogistic/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CenterLogistic/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CenterLogistic/.idea/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CenterLogistic/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CenterLogistic/images/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CenterLogistic/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CenterLogistic/styles/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xd/logistic-landing.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/barbershop/img/index-logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/barbershop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/barbershop/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +40,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WEB\barbershop" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB/barbershop/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -69,7 +66,9 @@
       <workItem from="1625214148337" duration="382000" />
       <workItem from="1625214569937" duration="2340000" />
       <workItem from="1625226204579" duration="19000" />
-      <workItem from="1625297549490" duration="714000" />
+      <workItem from="1625297549490" duration="6033000" />
+      <workItem from="1625304188453" duration="58000" />
+      <workItem from="1625521732266" duration="22000" />
     </task>
     <servers />
   </component>
