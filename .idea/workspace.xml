@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2d9757b2-1955-44a1-8510-6b0c5123bc81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/barbershop/img/index-logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/barbershop/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/barbershop/catalog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/barbershop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/barbershop/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1ukeinKNbdrrJkDJh8Af85zDkYX" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -37,6 +45,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -46,12 +56,12 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB/barbershop/index.html" useBuiltInWebServerPort="true">
+    <configuration name="product.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB/barbershop/product.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.product.html" />
       </list>
     </recent_temporary>
   </component>
@@ -69,10 +79,30 @@
       <workItem from="1625297549490" duration="6033000" />
       <workItem from="1625304188453" duration="58000" />
       <workItem from="1625521732266" duration="22000" />
+      <workItem from="1625569511477" duration="2521000" />
+      <workItem from="1625572099357" duration="880000" />
+      <workItem from="1625573004905" duration="2462000" />
+      <workItem from="1625651346039" duration="1569000" />
+      <workItem from="1625659708465" duration="4444000" />
+      <workItem from="1625814780391" duration="1124000" />
+      <workItem from="1625815942118" duration="3900000" />
+      <workItem from="1625844737591" duration="781000" />
+      <workItem from="1625845539941" duration="100000" />
+      <workItem from="1625845652832" duration="246000" />
+      <workItem from="1625845914654" duration="1210000" />
+      <workItem from="1625992308315" duration="43000" />
+      <workItem from="1625992364343" duration="61000" />
+      <workItem from="1625992443413" duration="162000" />
+      <workItem from="1625992623752" duration="1204000" />
+      <workItem from="1626161784248" duration="658000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
