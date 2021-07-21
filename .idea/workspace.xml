@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2d9757b2-1955-44a1-8510-6b0c5123bc81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/barbershop/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/barbershop/catalog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/barbershop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/barbershop/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,12 +54,16 @@
       <recent name="F:\WEB\barbershop" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB/barbershop/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="product.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB/barbershop/product.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.product.html" />
       </list>
     </recent_temporary>
@@ -95,6 +98,8 @@
       <workItem from="1625992443413" duration="162000" />
       <workItem from="1625992623752" duration="1204000" />
       <workItem from="1626161784248" duration="658000" />
+      <workItem from="1626374242899" duration="450000" />
+      <workItem from="1626681097365" duration="7813000" />
     </task>
     <servers />
   </component>
