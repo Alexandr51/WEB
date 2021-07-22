@@ -1,8 +1,7 @@
 <!doctype html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
-
     <title>Барбершор "Бородинский"</title>
 </head>
 <body>
@@ -130,13 +129,32 @@
 <section>
     <h2>Личный кабинет</h2>
     <p>Введите пожалуйста свой логин и пароль</p>
-    <!--    Здесь будет форма логина-->
+    <form action="https://echo.htmlacademy.ru" method="post">
+        <p>
+            <label for="login-login">Логин</label>
+            <input id="login-login" name="login" placeholder="email@example.com" type="email">
+        </p>
+
+        <p>
+            <label for="login-password">Пароль</label>
+            <input id="login-password" name="password" placeholder="********" type="password">
+        </p>
+
+        <label>
+            <input name="remember" type="checkbox">
+            Запомните меня
+        </label>
+
+        <a href="#">Я забыл пароль</a>
+        <p>
+            <button type="submit">Войти</button>
+        </p>
+    </form>
     <button type="button">Закрыть</button>
 </section>
 <section>
     <h2>Как до нас добраться</h2>
     <!--    Здесь будет карта-->
-    <button type="button">Закрыть</button>
 </section>
 </body>
 </html>
