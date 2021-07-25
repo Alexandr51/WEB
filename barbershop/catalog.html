@@ -36,7 +36,54 @@
 
     <section>
         <h2>Фильтр товаров</h2>
-        <!--        Здесь будет форма фильтра-->
+        <form action="https://echo.htmlacademy.ru" method="get">
+            <fieldset>
+                <legend>Производители:</legend>
+                <ul>
+                    <li>
+                        <input checked id="filter-baxter-of-california" name="baxter-of-california" type="checkbox">
+                        <label for="filter-baxter-of-california">Baxter of California</label>
+                    </li>
+                    <li>
+                        <input id="filter-mr-natty" name="mr-natty" type="checkbox">
+                        <label for="filter-mr-natty">Mr Natty</label>
+                    </li>
+                    <li>
+                        <input checked id="filter-suavecito" name="suavecito" type="checkbox">
+                        <label for="filter-suavecito">Suavecito</label>
+                    </li>
+                    <li>
+                        <input id="filter-malin-goetz" name="malin-goetz" type="checkbox">
+                        <label for="filter-malin-goetz">Malin+Goetz</label>
+                    </li>
+                    <li>
+                        <input id="filter-murrays" name="murrays" type="checkbox">
+                        <label for="filter-murrays">Murray`s</label>
+                    </li>
+                    <li>
+                        <input checked id="filter-american-crew" name="american-crew" type="checkbox">
+                        <label for="filter-american-crew">American Crew</label>
+                    </li>
+                </ul>
+            </fieldset>
+            <fieldset>
+                <legend>Группы товаров:</legend>
+                <ul>
+                    <li>
+                        <input id="filter-shave" name="product-group" type="radio" value="shaving">
+                        <label for="filter-shave">Бритвенные принадлежности</label>
+                    </li>
+                    <li>
+                        <input checked id="filter-care" name="product-group" type="radio" value="hair-care">
+                        <label for="filter-care">Средства для ухода</label>
+                    </li>
+                    <li><input id="filter-accessories" name="product-group" type="radio" value="accessories">
+                        <label for="filter-accessories">Аксессуары</label>
+                    </li>
+                </ul>
+            </fieldset>
+            <button type="submit">Покзать</button>
+        </form>
     </section>
 
     <section>
