@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d9757b2-1955-44a1-8510-6b0c5123bc81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/barbershop/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/barbershop/img/logo-index.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/barbershop/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/barbershop/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/barbershop/css/stylesheet.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/barbershop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/barbershop/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/barbershop/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/barbershop/product.html" afterDir="false" />
     </list>
@@ -133,11 +135,24 @@
       <workItem from="1627897460126" duration="5890000" />
       <workItem from="1627990993811" duration="266000" />
       <workItem from="1627991510644" duration="5198000" />
+      <workItem from="1628083677047" duration="2982000" />
+      <workItem from="1628087734515" duration="3878000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

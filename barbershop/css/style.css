@@ -87,3 +87,37 @@ img {
     list-style: none;
 }
 
+
+/* User navigation*/
+.site-navigation-current a:not ([href]) {
+    background-color: var(--basic-black);
+}
+
+.site-navigation a, .user-navigation a {
+    color: var(--basic-white);
+}
+
+.site-navigation a:hover,
+.site-navigation a:focus,
+.user-navigation a:hover,
+.user-navigation a:focus {
+    background-color: var(--basic-extra-dark);
+}
+
+
+/* Features*/
+.features-list {
+    list-style: none;
+}
+
+.feature-item {
+    text-align: center;
+}
+
+.feature-item h3 {
+    font-size: 30px;
+    line-height: 42px;
+}
+
+
+
